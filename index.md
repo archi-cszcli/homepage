@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a research assistant professor at Department of Computing, The Hong Kong Polytechnic University.
+I am a Research Assistant Professor in the Department of Computing, The Hong Kong Polytechnic University.
+
+I received my PhD from the Department of Computing at The Hong Kong Polytechnic University, where I was supervised by Dr. Bin Xiao. I obtained my BEng from the School of Information Science and Engineering at Southeast University.
 
 ## Research Interests
 
@@ -13,10 +15,10 @@ I am a research assistant professor at Department of Computing, The Hong Kong Po
 
 ## News
 
-- **[Jun. 2024]** GRF granted.
-- **[Jun. 2023]** NSFC Youth granted.
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[PhD Position]** We have several positions for PhD candidate in smart contract and decentralized identity, co-supervised with Prof. Bin Xiao.
+- **[Research Assistant Position]** We have several openings for research assistant in smart contract and zero-knowledge proof applications.
+- **[Jun. 2024]** Our GRF project "Security of Deployed Smart Contract: Threat Detection and Attack Prevention" was granted by RGC.
+
 
 {% include_relative _includes/publications.md %}
 
