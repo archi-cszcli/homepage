@@ -1,22 +1,56 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  - title: Enabling Privacy-Preserving and Efficient Authenticated Graph Queries on Blockchain-Assisted Clouds
+    authors: Haotian Wu, <strong>Zecheng Li</strong>, Rui Song, Bin Xiao
+    conference_short: TKDE
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: "Securing deployed smart contracts and DeFi with distributed TEE cluster"
+    authors: <strong>Zecheng Li</strong>, Bin Xiao, Songtao Guo, Yuanyuan Yang
+    conference_short: TPDS
+    conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: "Abnormal Traffic Detection: Traffic Feature Extraction and DAE-GAN With Efficient Data Augmentation"
+    authors: <strong>Zecheng Li</strong>, Shengyuan Chen, Hongshu Dai, Dunyuan Xu, Cheng-Kang Chu, Bin Xiao
+    conference_short: TR
+    conference: IEEE Transactions on Reliability <strong>(TR)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
+  - title: "Solsaviour: A Defending Framework for Deployed Defective Smart Contracts"
+    authors: <strong>Zecheng Li</strong>, Yu Zhou, Songtao Guo, Bin Xiao
+    conference_short: ACSAC
+    conference: Proceedings of the 37th Annual Computer Security Applications Conference <strong>(ACSAC)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
+  - title: "Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE"
+    authors: <strong>Zecheng Li</strong>, Haotian Wu, Lap Hou Lao, Songtao Guo, Yuanyuan Yang, Bin Xiao
+    conference_short: TPDS
+    conference: IEEE Transactions on Parallel and Distributed Systems<strong>(TPDS)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
