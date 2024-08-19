@@ -6,25 +6,29 @@ layout: homepage
 
 I am a Research Assistant Professor in the Department of Computing, The Hong Kong Polytechnic University.
 
-I received my PhD from the Department of Computing at The Hong Kong Polytechnic University, where I was supervised by Dr. Bin Xiao. I obtained my BEng from the School of Information Science and Engineering at Southeast University.
+I received my Ph.D. degree from the Department of Computing at The Hong Kong Polytechnic University, where I was supervised by Dr. [Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/). I obtained my B.Eng. from the School of Information Science and Engineering at Southeast University.
 
 ## Research Interests
+
+I have a broad interest in blockchain security, with my current focus concentrated on the following 2 areas:
 
 - **Smart Contract Security:** vulnerability detection, transaction analysis, malware detection
 - **Decentralized Identity:** identity management, privacy protection, access control
 
 ## Hiring
 
-- **[PhD Position]** We have several positions for PhD candidate in smart contract and decentralized identity, co-supervised with Prof. Bin Xiao.
-- **[Research Assistant Position]** We have several openings for research assistant in smart contract and zero-knowledge proof applications.
+- **[PhD Position]** We have several positions for Ph.D. candidate (monthly salary $18,890) in smart contract and decentralized identity, co-supervised with Prof. [Bin Xiao](https://www4.comp.polyu.edu.hk/~csbxiao/). For applicants, you should obtain a degree in Computer Science, Information Technology, or a related field, have strong background in blockchain and program analysis. Prior experience with smart contracts and decentralized identity systems is highly desirable.
+- **[Research Assistant Position]** We have several openings for research assistant (monthly salary $13,500) in smart contract and zero-knowledge proof applications. For applicants, you should have background in Computer Science, Information Technology, or a related field, be familar with smart contract and program analysis techniques. 
 
-If you are interested in working with me, please send me you CV and any other supporting documents.
+If you are interested in working with me, please send me you CV and any other supporting documents (e.g., transcript and any relevant publications).
 
 ## News
 
-- **[Jun. 2024]** Our GRF project "Security of Deployed Smart Contract: Threat Detection and Attack Prevention" was granted by RGC.
+- **[Jun. 2024]** Our GRF project "Security of Deployed Smart Contract: Threat Detection and Attack Prevention" was granted by HK RGC.
 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/teaching.md %}
+
+<!-- {% include_relative _includes/services.md %} -->
