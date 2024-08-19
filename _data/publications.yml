@@ -4,44 +4,44 @@ main:
     authors: Haotian Wu, <strong>Zecheng Li</strong>, Rui Song, Bin Xiao
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    pdf: https://ieeexplore.ieee.org/abstract/document/10054091
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/tkde23.png
     # notes: Early Accept
 
-  - title: "Securing deployed smart contracts and DeFi with distributed TEE cluster"
+  - title: "Securing Deployed Smart Contracts and DeFi with Distributed TEE Cluster"
     authors: <strong>Zecheng Li</strong>, Bin Xiao, Songtao Guo, Yuanyuan Yang
     conference_short: TPDS
-    conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9999528
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/tpds23.png
 
   - title: "Abnormal Traffic Detection: Traffic Feature Extraction and DAE-GAN With Efficient Data Augmentation"
     authors: <strong>Zecheng Li</strong>, Shengyuan Chen, Hongshu Dai, Dunyuan Xu, Cheng-Kang Chu, Bin Xiao
     conference_short: TR
     conference: IEEE Transactions on Reliability <strong>(TR)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
     image: ./assets/img/teaser_example.png
 
-  - title: "Solsaviour: A Defending Framework for Deployed Defective Smart Contracts"
+  - title: "SolSaviour: A Defending Framework for Deployed Defective Smart Contracts"
     authors: <strong>Zecheng Li</strong>, Yu Zhou, Songtao Guo, Bin Xiao
     conference_short: ACSAC
     conference: Proceedings of the 37th Annual Computer Security Applications Conference <strong>(ACSAC)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3485832.3488015
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/acsac21.png
 
   - title: "Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE"
     authors: <strong>Zecheng Li</strong>, Haotian Wu, Lap Hou Lao, Songtao Guo, Yuanyuan Yang, Bin Xiao
