@@ -7,7 +7,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10054091
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/tkde23.png
+    # image: ./assets/img/tkde23.png
     # notes: Early Accept
 
   - title: "Securing Deployed Smart Contracts and DeFi with Distributed TEE Cluster"
@@ -19,18 +19,18 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/tpds23.png
+    # image: ./assets/img/tpds23.png
 
   - title: "Abnormal Traffic Detection: Traffic Feature Extraction and DAE-GAN With Efficient Data Augmentation"
     authors: <strong>Zecheng Li</strong>, Shengyuan Chen, Hongshu Dai, Dunyuan Xu, Cheng-Kang Chu, Bin Xiao
     conference_short: TR
     conference: IEEE Transactions on Reliability <strong>(TR)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893038
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    # image: ./assets/img/teaser_example.png
 
   - title: "SolSaviour: A Defending Framework for Deployed Defective Smart Contracts"
     authors: <strong>Zecheng Li</strong>, Yu Zhou, Songtao Guo, Bin Xiao
@@ -41,16 +41,16 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/acsac21.png
+    # image: ./assets/img/acsac21.png
 
   - title: "Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE"
     authors: <strong>Zecheng Li</strong>, Haotian Wu, Lap Hou Lao, Songtao Guo, Yuanyuan Yang, Bin Xiao
     conference_short: TPDS
     conference: IEEE Transactions on Parallel and Distributed Systems<strong>(TPDS)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9582795
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
 
