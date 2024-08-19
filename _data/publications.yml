@@ -2,7 +2,7 @@ main:
 
   - title: Enabling Privacy-Preserving and Efficient Authenticated Graph Queries on Blockchain-Assisted Clouds
     authors: Haotian Wu, <strong>Zecheng Li</strong>, Rui Song, Bin Xiao
-    conference_short: TKDE
+    # conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10054091
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -12,7 +12,7 @@ main:
 
   - title: "Securing Deployed Smart Contracts and DeFi with Distributed TEE Cluster"
     authors: <strong>Zecheng Li</strong>, Bin Xiao, Songtao Guo, Yuanyuan Yang
-    conference_short: TPDS
+    # conference_short: TPDS
     conference: IEEE Transactions on Parallel and Distributed Systems <strong>(TPDS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9999528
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -23,7 +23,7 @@ main:
 
   - title: "Abnormal Traffic Detection: Traffic Feature Extraction and DAE-GAN With Efficient Data Augmentation"
     authors: <strong>Zecheng Li</strong>, Shengyuan Chen, Hongshu Dai, Dunyuan Xu, Cheng-Kang Chu, Bin Xiao
-    conference_short: TR
+    # conference_short: TR
     conference: IEEE Transactions on Reliability <strong>(TR)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893038
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -34,7 +34,7 @@ main:
 
   - title: "SolSaviour: A Defending Framework for Deployed Defective Smart Contracts"
     authors: <strong>Zecheng Li</strong>, Yu Zhou, Songtao Guo, Bin Xiao
-    conference_short: ACSAC
+    # conference_short: ACSAC
     conference: Proceedings of the 37th Annual Computer Security Applications Conference <strong>(ACSAC)</strong>, 2021.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3485832.3488015
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -45,7 +45,7 @@ main:
 
   - title: "Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE"
     authors: <strong>Zecheng Li</strong>, Haotian Wu, Lap Hou Lao, Songtao Guo, Yuanyuan Yang, Bin Xiao
-    conference_short: TPDS
+    # conference_short: TPDS
     conference: IEEE Transactions on Parallel and Distributed Systems<strong>(TPDS)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9582795
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
