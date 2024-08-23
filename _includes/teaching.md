@@ -6,9 +6,9 @@
 
 <ul style="margin:0 0 20px;">
     <!-- <li><a href="https://www.example.com/comp5434">COMP5434 Big Data Computing 2022/2023</a></li> -->
-    <li>[COMP5434 Big Data Computing](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5434.pdf) 2024/2025 Semester 1</li>
-    <li>COMP5434 Big Data Computing 2023/2024 Semester 3</li>
-    <li>COMP5434 Big Data Computing 2022/2023 Semester 3</li>
+    <li><a href="https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5434.pdf">COMP5434 Big Data Computing</a> 2024/2025 Semester 1</li>
+    <li><a href="https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5434.pdf">COMP5434 Big Data Computing</a> 2023/2024 Semester 3</li>
+    <li><a href="https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5434.pdf">COMP5434 Big Data Computing</a> 2022/2023 Semester 3</li>
 </ul>
 
 
